@@ -1,7 +1,8 @@
  <h1 align="center">Hi 👋, I'm Suraj Malviya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" src="![image](https://github.com/user-attachments/assets/996638ca-bbe5-4c82-ab68-fc3015098d16)
+<img align="right" alt="coding" src="![image](https://github.com/user-attachments/assets/730733b3-a9c6-4062-b019-78444a015b51)
+
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj9668&label=Profile%20views&color=0e75b6&style=flat" alt="suraj9668" /> </p>
