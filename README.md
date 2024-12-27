@@ -1,6 +1,7 @@
  <h1 align="center">Hi 👋, I'm Suraj Malviya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://your-hosted-image-url.com/image.png" alt="Coding Animation" width="400" />
+<img src="![image](https://github.com/user-attachments/assets/5a82ab94-081f-47c3-a263-3065f5ca6215)
+" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj9668&label=Profile%20views&color=0e75b6&style=flat" alt="suraj9668" /> </p>
 
 - 🌱 I’m currently learning **All The MERN functionality**
