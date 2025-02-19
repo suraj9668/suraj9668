@@ -1,7 +1,9 @@
-<h1 align="center">Hi there, I'm Suraj Malviya! 👋</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0F2027&height=80&section=header&text=Hi%20there,%20I'm%20Suraj%20Malviya!%20👋&fontSize=35&fontColor=00FFFF&animation=fadeIn" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=600&lines=MERN+Stack+Developer;Passionate+about+Web+Development;Building+Scalable+and+Efficient+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Passionate+about+Web+Development;Building+Scalable+and+Efficient+Apps" />
 </p>
 
 ---
